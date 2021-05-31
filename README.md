@@ -8,7 +8,6 @@ Eu gosto de usar meus talentos e habilidades para oferecer insights e melhorar o
 
 Meu objetivo é fazer uma analise exploratoria. Eu respondi 13 perguntas, analisando colunas como ano de lançamento, tipo de titulo, genero de titulo, atores, diretores, paises de origem e duração. Como resultado dos meus calculos obtive agrupamentos, tabelas, histogramas e boxplots. <br>
 [Happiness EDA](https://www.kaggle.com/cssouza91/happiness-eda) <br>
-[Poverty EDA](https://www.kaggle.com/cssouza91/poverty-eda)<br>
 [Nobel Laureates EDA](https://www.kaggle.com/cssouza91/nobel-laureates-eda)<br>
 [Mental Health EDA](https://www.kaggle.com/cssouza91/mental-health-eda)<br>
 [Digimon EDA](https://www.kaggle.com/cssouza91/digimon-eda)<br>
