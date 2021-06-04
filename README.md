@@ -1,7 +1,5 @@
 # Portfolio Ciencia de Dados - Claudio Souza
-Eu gosto de usar meus talentos e habilidades para oferecer insights e melhorar os processos nas organizaçoes em que atuo. 
-
-Meu objetivo com esse portfolio é mostrar meus talentos naturais (analise/criatividade) e habilidades aprendidas(python). Eu fiz  uma analise exploratoria de diversos datasets, analisando a centralidade, dispersão, distribuição e agrupamento de diversas colunas. Como resultado dos meus calculos obtive agrupamentos, tabelas, histogramas e boxplots.
+Eu fiz  uma analise exploratoria de diversos datasets, analisando a centralidade, dispersão, distribuição e agrupamento de diversas colunas. Como resultado dos meus calculos obtive agrupamentos, tabelas, histogramas e boxplots.
 
 # Projetos
 
